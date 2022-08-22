@@ -45,7 +45,7 @@ export const data = [
         channels: [
           {
             id: 1,
-            label: 'welcome',
+            label: '1',
             description:
               'Introduction to the Tailwind CSS framework and community.',
             icon: 'Book',
